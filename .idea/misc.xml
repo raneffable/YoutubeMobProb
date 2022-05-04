@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/Project_MobProb/TheRealProject/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/layout/activity_login.xml" value="0.19791666666666666" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/layout/activity_main2.xml" value="0.4" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/layout/activity_main3.xml" value="0.264" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/layout/activity_main4.xml" value="0.264" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/layout/activity_main5.xml" value="0.264" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/xml/network_security_config.xml" value="0.1793478260869565" />
+        <entry key="..\:/College University Sem1-10/8.Semester VIII/TheRealProject/app/src/main/res/xml/xml.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
